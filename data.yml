@@ -1,0 +1,5 @@
+train: C:/Users/SHAH/Desktop/model/dataset/images/train/
+val: C:/Users/SHAH/Desktop/model/dataset/images/val/
+
+nc: 17  # Number of classes
+names: ['dog','person', 'cat','tv','car','meatballs','marinara sauce','tomato soup','chicken noodle soup','french onion soup','chicken breast','ribs','pulled pork','hamburger','cavity','jack','other ball']
